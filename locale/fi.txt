@@ -1,0 +1,179 @@
+#: locale=fi
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Raudan määritys absorptiometrisesti
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = TYÖOHJEET
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_84460710_A56B_37F4_4195_1B252506E08E.label = ANNOSTELIJAN OHJEET
+Button_84A76D3E_A565_1A2F_41A5_7590626D9041.label = VAA'AN OHJEET
+Button_8766E7CF_A57D_166D_41E4_7509A6F1E851.label = Edistymisesi
+Button_87EAF01F_A57D_69EC_41D8_FA8563AE46FD.label = FINNPIPETIN OHJEET
+Button_94AFAAE5_9B6B_0A25_418E_14E745454A0A.label = INFO
+
+### Multiline Text
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.5900000000000025vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.5900000000000025vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.5900000000000025vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.7600000000000025vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.669999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Tervetuloa virtuaaliseen laboratoriotyöhön: Raudan määritys absorptiometrisesti </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3899999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">Etene laboratoriossa klikkailemalla itseäsi eteenpäin ja selvittämällä eteen tulevat tehtävät. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3899999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">Oikeassa yläkulmassa näet tämänhetkisen tehtäväsi. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.3899999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">Alhaalla oleva vihreä palkki taas kertoo edistymisestäsi. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.73vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+Label_807179A0_9DAB_16DC_41DF_9A68CE2DB43D.text = Tehtävä: Punnitse rautatabletit vaa'alla
+Label_80B25578_9DAD_1E2C_41DE_E2B80BCB2688.text = Seuraavaksi pipetoi näytteet: Etsi 250 cm3 mittapullo jossa aiemmin valmistettu näyteliuos on
+Label_82B7879E_9DED_1AE7_41D9_E44233DABC4F.text = Täytä standardit ja näytteet vedellä merkkiin saakka
+Label_8386F6B0_9DFD_1A3B_4171_9F6A1A01AED8.text = Tehtävä: Poimi kyvetti
+Label_8393737D_9DFD_1A25_41C4_1FCCDC95C286.text = Tehtävä: Etsi valkoinen laatikko jossa on kyvetit
+Label_83F1A851_9DFD_167C_41DB_3FAF1D1629D8.text = Tehtävä: Analysoi tulokset tietokoneella
+Label_872B4C90_9DAF_0EFB_41E0_8EBA56D6AC03.text = Tehtävä: Aloita näyteliuosten valmistaminen etsimällä rautatabletit
+Label_872B9C8F_9DAF_0EE4_41D6_62C307675ED6.text = Näytteet ja standardit ovat nyt valmiit. Etsi reagenssit ja lisää ne mittapulloihin
+Label_893FA7BC_9D6D_7A2B_41D0_EBAA0182ADA2.text = Tehtävä: Etsi mittapullot joihin valmistat standardiliuossarjan
+Label_8E105B4F_A49D_3E6D_41DE_08670AA3D145.text = Tehtävä: Suodata vielä näytteen jäännökset vetokaapissa
+Label_99410153_85B4_11C2_41CC_02D8D1D34728.text = Tehtävä: Nyt voit aloittaa standardiliuoksen valmistamisen etsimällä raudan kantaliuoksen
+Label_99A8EC09_BBBB_F9D4_41C9_C86567629E40.text = Tehtävä: Pipetoi ja valmista välilaimennos: Etsi pipetin käyttöohje ja lue se ennen pipetointia
+Label_9ACC6FC4_BBA7_1653_41D1_8A463542B04F.text = Etsi vielä 3kpl 100 cm3 mittapulloja ja pipetoi näytteet niihin
+Label_9C1D71E6_859C_10C2_41AC_851EE9682B29.text = Tehtävä: Hae henkilökohtaiset suojavarusteesi kaapista 
+Label_9C8078C3_BB6D_3A55_41BE_CB3C6176C300.text = Tehtävä: Mene vetokaappille tekemään näyteliuos 
+Label_9F066F24_8594_3146_41D0_B5A9EC7D909A.text = Tehtävä: Jatka matkaasi laboratorioon
+Label_BA78661B_9CA7_3DEC_41B9_94F30E723BB1.text = Tehtävä: Punnitaksesi näytteen vaa'alla, etsi vaa'an käyttöohje.
+Label_BB2D9A36_9C9F_0A27_41E3_6D58C9ABB4E0.text = Tehtävä: Siirry lähemmäs vetokaappia jossa jätteet käsitellään
+Label_BBDE8BAE_9CEB_0A24_41E1_CF2404F54CA9.text = Tehtävä: Etsi jätepullo
+Label_BDB87533_9C9B_1E3D_41D2_8F4A0BB10FE0.text = Tehtävä: Siirrä mittapullot lähemmäs spektrometriä ja kaada näytteet kyvetteihin
+Label_BE652E37_9CAB_0A24_41B3_7CC7B779F8A2.text = Tehtävä: Aseta kyvetti spektrofotometriin
+Label_F178122B_A4E7_27E9_41C0_7EB64BEC36C9.text = Loppu häämöttää! Mene vielä tiskialtaalle ja pese käyttämäsi välineet
+Label_F629BE6C_A5EF_1C6E_41D8_487703A96E1F.text = Tallenna suorituksesi 
+Label_FABCCA77_A4A7_647A_41C7_9DD7C4FC51B2.text = Etsi annostelijan ohje ja lue se ennen reagenssien lisäämistä näytteisiin
+
+## Media
+
+### Title
+panorama_9449203A_848C_0F40_41D3_DD3B8D0430F8.label = 4
+panorama_944960FA_848C_10C2_41C2_D101B32AF7F3.label = 5
+panorama_944989C6_848C_70C2_41B0_D977BCC809FC.label = 1 Aula
+panorama_944E095D_848C_F1C1_41CA_5E4B8B95C608.label = 2.5
+panorama_944E0FCF_848C_30C2_41A1_439FAE13196B.label = 2 Labra alku
+panorama_944E1D7B_848C_11C2_41B0_61BE4EF43863.label = 6
+panorama_944E6A4A_848C_73C2_41C6_F814DA59C7B9.label = 7
+panorama_96F1E4A2_848C_3743_41BF_BC5CD8CBFC92.label = 3 
+video_977D5449_BB9D_2A55_41E4_A0F2A678BF86.label = Standardien_valmistus-standardiliuosten_tekeminen_oikein
+video_99879C77_BB9F_1A3D_41E2_34936AA4FC6A.label = Rautatabletin_punnitseminen_oikein
+video_9A353E8C_BBAF_76D3_41E5_E11C0BB6E636.label = Rinnakkaisten_näyteliuosten_pipetointi_oikein
+video_9A697FCD_BBA7_166D_4189_3AB2546FE5C2.label = Standardien_valmistus-välilaimennuksen_tekeminen
+video_9C4703B9_BBAD_6E35_41CA_684821C53922.label = A_Näyteliuoksen_valmistus-tabletin_liuotus_vetokaapissa
+video_9E9E49FB_BCA5_FA35_41D8_089C68D945A4.label = Laboratoriotöihin_valmistautuminen
+video_F2DF2827_A5ED_E39A_41DC_C639531BBA63.label = 108-Spektrofotometria-siirto_kyvetteihin
+video_F329E15F_A5EA_E5A9_41E2_F6A7000AD7B5.label = 109-Spektrofotometria-mittaukset
+video_F3952722_A4AF_2D9B_419A_D3B945F5EB67.label = Näyteliuosten_ja_standardiliuosten_lopullinen_valmistelu
+video_F3F0D5A0_A5E7_EC96_41E3_4E6E72EBDFCF.label = 110-Jätteiden_käsittely
+video_F4714982_A5E5_249A_41D7_46C2DCCE04ED.label = 111-Tiskaus
+
+## Popup
+
+### Body
+htmlText_804CC408_9DA5_1DEB_41B4_A370B56A000A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Absorptiometrillä mitataan vain Fe2+ kompleksin tiheyttä liuoksessa. Varmistaaksemme Fe3+ ionien pelkistymisen Fe2+ ioneiksi on liuoksiin lisättävä reagenssejä. Jokaiseen mittapulloon lisättiin 10 cm3 1M rikkihappoa ja 10 cm3 NH2OH×HCl-liuosta. Mitattavan kompleksin muodostamiseksi mittapulloihin lisättiin 12 cm3 natriumasetaattiliuosta ja 10 cm3 1,10-fenantroliiniliuosta, jonka jälkeen    mittapullot täytettiin merkkiin asti puhtaalla vedellä    ja sekoitettiin huolellisesti. Reagenssinolla valmistettiin samalla tavalla, mutta ilman rautalisäystä.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8305BDB9_9D9D_0E2D_41E2_4A5AF98E2F89.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">video kun mittapullot täytetään merkkiin saakka ja sekoitetaan</SPAN></DIV></BODY></HTML></div>
+htmlText_8EED1305_A49A_E59E_41D7_ABEEE4378100.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hienoa löysit näytepullon! </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">[tähän vielä kuva näytepullosta]</SPAN></DIV></BODY></HTML></div>
+htmlText_8F8F6657_A49D_6FBA_41E1_BC09B82443C8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hienoa! Löysit pipetin ohjeet. Ohjeet ovat lisätty alapalkkiin josta voit avata ne tarvittaessa.</SPAN></DIV></BODY></HTML></div>
+htmlText_91BD63F2_BB65_2E37_41C1_06A3523CD170.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Löysit vaa'an ohjeet. Ne ovat nyt lisätty talteen alapalkin menuun josta voit avata ne tarvittaessa</SPAN></DIV></BODY></HTML></div>
+htmlText_9D05C53A_BB65_2A34_41E3_EE4B87886061.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">voisi avautua lähikuva purkista</SPAN></DIV></BODY></HTML></div>
+htmlText_F33C33A4_A59B_649F_41D7_A65DB92F80CF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hienoa! Löysit kyvetit</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">[kuva kyvetistä]</SPAN></DIV></BODY></HTML></div>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_80453407_9DA5_1DE4_41D0_BA1F000C83BB.toolTip = Reagenssit
+HotspotPanoramaOverlayArea_81ADCC6F_9D67_0E25_41D7_968FC159FC38.toolTip = 250cm3 mittapullo
+HotspotPanoramaOverlayArea_85D6ECDB_9DE5_0E6C_4149_B435A12B7C89.toolTip = Standardiliuokset ja näyteliuokset
+HotspotPanoramaOverlayArea_88A12BF5_9D65_0A25_41DE_46060948487A.toolTip = Raudan kantaliuos 10 000mg(dm3)
+HotspotPanoramaOverlayArea_897AAD7F_9D7B_0E24_41E2_986360B67B9D.toolTip = Tyhjät 100cm3 pullot standardeja varten
+HotspotPanoramaOverlayArea_8C7CBE38_A49F_1633_41C5_B081EF2F32E7.toolTip = Vetokaappi näytteiden tekoon
+HotspotPanoramaOverlayArea_92C664A3_858C_1742_418F_37FA03A480C1.toolTip = Hyppää labraan
+HotspotPanoramaOverlayArea_9C4EC62E_BB65_362F_41D2_B761E19A6EF4.toolTip = Vaaka
+HotspotPanoramaOverlayArea_9CB44810_BB6A_F9F3_41DD_E95A99F9316D.toolTip = Vetokaappi näytteiden tekoon
+HotspotPanoramaOverlayArea_9D37B53A_BB65_2A34_41D1_0534C031A5FB.toolTip = Rautatabletit
+HotspotPanoramaOverlayArea_9F16C062_8594_0FC2_41BE_DC58C123E740.toolTip = Pue suojavarusteet
+HotspotPanoramaOverlayArea_B95C366E_9CAD_3A27_41DA_7BA9D7A3AB6E.toolTip = Vaa'an käyttöohje
+HotspotPanoramaOverlayArea_BB0D3528_9CEB_1E2C_41E1_503D47A10281.toolTip = Siirry lähemmäs vetokaappia
+HotspotPanoramaOverlayArea_BC662263_9CED_3A5C_41D3_4D04657DED9F.toolTip = Tiskiallas
+HotspotPanoramaOverlayArea_BDE9892F_9CA5_7625_41C7_25CF574BE7D0.toolTip = Tietokokone
+HotspotPanoramaOverlayArea_BE56A704_9CAF_3BDB_41DA_CB412C04644B.toolTip = Spektrofotometri
+HotspotPanoramaOverlayArea_BF2F97B4_9CA5_3A3B_41C1_354D48DD4C5F.toolTip = Sirry spketrofotometrin eteen
+HotspotPanoramaOverlayArea_BF548D57_9CAD_0E64_41D2_3363B2D8E891.toolTip = Poimi yksi kyvetti
+HotspotPanoramaOverlayArea_BF7513EC_9C9F_1A2B_41E3_B9BD1DAB55FB.toolTip = Kyvetit
+HotspotPanoramaOverlayArea_F124DEB9_A4AF_7CF6_41D8_5CD578C47FEC.toolTip = 250cm3 mittapullo
+HotspotPanoramaOverlayArea_F25713D2_A5FB_24BB_41E5_7A8F9DE8F79F.toolTip = Siirry lähemmäs vetokaappia
+HotspotPanoramaOverlayArea_F2871206_A5FE_E79A_41A5_5CE1951161E8.toolTip = Jätepullo
+HotspotPanoramaOverlayArea_F8AE270D_A5E5_2DA9_41E3_0F65B4339051.toolTip = Sirry spketrofotometrin eteen
+
+## Action
+
+### PDF
+PopupPDFBehaviour_84394710_A56B_37F4_41BA_7F82581855FA.url = files/Annostelijan käyttöohje_fi.pdf
+PopupPDFBehaviour_84A33D3E_A565_1A2F_41C4_BAAC3871F146.url = files/Vaaka ja sen käyttö 2020_valmis_lopullinen_fi.pdf
+PopupPDFBehaviour_87EE3024_A57D_69D3_41B7_989EFF52EBD2.url = files/Finnpipetin käyttöohje_fi.pdf
+PopupPDFBehaviour_9429A62A_9B6A_FA2F_41E0_07CFF727E0D6.url = files/CHEM-A1200 spektrofotometria-työohje- 2020 (1)_fi.pdf
+
+## E-Learning
+
+### Answer
+questionOption_8862617F_9D65_1624_41CB_872AC5AFC854.text = 50, 100, 200, 300, 400, 500 um3
+questionOption_886D117F_9D65_1624_41DE_B193D044DA6D.text = 5, 10, 20, 30, 40, 50 um3
+questionOption_88D890FD_9D65_7624_41E1_EF6B5FA9A8B1.text = 1 cm3
+questionOption_8B89F726_9D7D_1A27_4174_CE343FCE2C1C.text = 10 cm3
+questionOption_8BAB78A6_9D7D_3627_41D3_7ABAB0198042.text = 0.1 cm3
+questionOption_B9B6CEC8_9CE5_0A6B_41C9_BA770231459F.text = 200mg, Oikein
+questionOption_BC1CF345_9CE5_3A64_41E3_382894851066.text = 300mg
+questionOption_BC6A75B1_9CE5_3E3D_41E1_C9B74AC97A9A.text = 400mg
+questionOption_F02371B9_A4A7_24E9_41B6_99FA922DA67E.text = 10, 20, 40, 60, 80, 100 um3
+questionOption_F0468451_A4A7_23B6_41D1_205C0F864C6C.text = 100, 200, 400, 600, 800, 1000 um3
+
+### Score Name
+score1.label = Score total
+
+### Question
+question_8863717F_9D65_1624_41E0_93D6FEF907DA.title = Seuraavaksi sinun tulee valmistaa kantaliuoksen laimennetusta versiosta mittapulloihin sarja joka sisältää 0.5, 1, 2, 3, 4, ja 5 ppm rautaa. Laske kuinka paljon laimennettua kantaliuosta täytyy mitata kuhunkin mittapulloon? 
+question_891DB853_9D65_167C_41CA_C22563ADBB3E.title = Kantaliuoksen suuresta rautapitoisuudesta (10 000mg/dm3) johtuen siitä valmistetaan laimennettu versio (100mg/dm3).  \
+ \
+Kuinka paljon standardiliuosta tulee mitata mittapulloon jonka tilavuus on 100 cm3? 
+question_B97AB21D_9CE5_15E5_41E0_84CDEB45C94B.title = [kuva tuloksista tms.]  Laske raudan määrä näytteessä. 
+
+### Question Screen
+quizQuestion_8A75C0FC_9CA5_162B_41B3_99EEF959575C.ok = OK
+
+### Report Screen
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.completion = Completed
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.downloadCSV = Download .csv
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.elapsedTime = Time
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.items = Items Found
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.questions = Questions
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.questionsCorrect = Correct
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.questionsIncorrect = Incorrect
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.repeat = Repeat
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.submitToLMS = Submit
+quizScore_8A73F0FC_9CA5_162B_41DB_55DB7DAA9413.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_8A76D0FC_9CA5_162B_419E_F24820361E7B.repeat = Repeat
+quizTimeout_8A76D0FC_9CA5_162B_419E_F24820361E7B.score = View Score
+quizTimeout_8A76D0FC_9CA5_162B_419E_F24820361E7B.title = - TIMEOUT -
